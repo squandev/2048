@@ -1,5 +1,4 @@
 # 2048
-============
 ![Language](https://img.shields.io/badge/language-Swift%205-orange)
 
 <p float="center">
